@@ -1,0 +1,76 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #1A191A;
+    font-family: Dosis;   
+    color: whitesmoke;
+}
+
+.Welcome{
+    font-family: Bebas Neue;
+}
+.purple{
+    color: #B336FF;
+}
+
+.light{
+    float: right; 
+    @media (width <= 700px){
+        width: 10rem;
+    }  
+}
+
+#tittle{
+    font-family: Bebas Neue;
+    font-weight: bold;
+    font-size: 3rem;}
+
+#subtitle{    
+    font-weight:100
+}
+
+#me{
+    width: 5rem;
+    height: auto;
+    border-radius: 50%;
+    text-align: center;
+}
+
+.text{  
+    font-weight: lighter;
+    text-align: center;     
+    justify-content:center;    
+}
+
+.skills{
+    margin-top: 10rem;
+    margin-bottom: 5rem;
+    text-align: center;
+    
+    
+}
+
+.skills-text{
+    text-align: center;
+    
+}
+
+.features{
+    margin-top: 10rem;    
+    text-align: right;
+    margin-right: 5rem;
+}
+
+
+.contact{
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+
+
+footer{
+    margin-top: 5rem;
+    text-align: center;
+    
+}
