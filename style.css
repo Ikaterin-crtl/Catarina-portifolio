@@ -26,7 +26,7 @@ body{
     font-weight: bold;
     font-size: 3rem;}
 
-#subtitle{    
+#programer{    
     font-weight:100
 }
 
@@ -71,10 +71,22 @@ body{
 #tittletittle{
     margin-top: 2rem;
     margin-bottom: 1rem;
+    font-size: 2rem;
+}
 
+.subtittle{
+    font-size: 13pt;
+    text-align: center;
+}
+
+.about-me{
+    text-align: center;
+}
+
+#about{
+    margin-bottom: 2rem;
 }
 footer{
     margin-top: 5rem;
-    text-align: center;
-    
+    text-align: center;    
 }
